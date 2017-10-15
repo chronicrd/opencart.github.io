@@ -188,7 +188,7 @@ a:hover, a:focus, a:active {
   @media screen and (max-width: 991px) {
     #documentation > .container {
       margin-top: 25px; } }
-  #documentation #catrgories-top-menu .btn {
+  #documentation #categories-top-menu .btn {
     font-size: 16px;
     font-weight: 600; }
   #documentation #menu h4 {
